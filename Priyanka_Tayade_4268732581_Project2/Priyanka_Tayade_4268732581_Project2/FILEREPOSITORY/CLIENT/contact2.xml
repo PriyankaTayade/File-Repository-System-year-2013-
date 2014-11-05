@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<METAFILE>
+  <name>contact2.txt</name>
+  <created>08-10-2013 18:02:48</created>
+  <modified>21:45:36 अपराह्न</modified>
+  <version>1.0</version>
+  <Size>0</Size>
+  <description>some description</description>
+  <dependency>CLIENT</dependency>
+  <keywords>CLIENT,CONTACT</keywords>
+</METAFILE>

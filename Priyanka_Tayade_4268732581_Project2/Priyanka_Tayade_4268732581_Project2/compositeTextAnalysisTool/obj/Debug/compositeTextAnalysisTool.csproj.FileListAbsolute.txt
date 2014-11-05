@@ -1,0 +1,12 @@
+C:\Users\Priyanka\documents\visual studio 2012\Projects\compositeTextAnalysisTool\compositeTextAnalysisTool\bin\Debug\compositeTextAnalysisTool.exe.config
+C:\Users\Priyanka\documents\visual studio 2012\Projects\compositeTextAnalysisTool\compositeTextAnalysisTool\bin\Debug\compositeTextAnalysisTool.exe
+C:\Users\Priyanka\documents\visual studio 2012\Projects\compositeTextAnalysisTool\compositeTextAnalysisTool\bin\Debug\compositeTextAnalysisTool.pdb
+C:\Users\Priyanka\documents\visual studio 2012\Projects\compositeTextAnalysisTool\compositeTextAnalysisTool\obj\Debug\compositeTextAnalysisTool.csprojResolveAssemblyReference.cache
+C:\Users\Priyanka\documents\visual studio 2012\Projects\compositeTextAnalysisTool\compositeTextAnalysisTool\obj\Debug\compositeTextAnalysisTool.exe
+C:\Users\Priyanka\documents\visual studio 2012\Projects\compositeTextAnalysisTool\compositeTextAnalysisTool\obj\Debug\compositeTextAnalysisTool.pdb
+C:\Users\Priyanka\Desktop\Priyanka_Tayade_4268732581_Project2\compositeTextAnalysisTool\bin\Debug\compositeTextAnalysisTool.exe.config
+C:\Users\Priyanka\Desktop\Priyanka_Tayade_4268732581_Project2\compositeTextAnalysisTool\bin\Debug\compositeTextAnalysisTool.exe
+C:\Users\Priyanka\Desktop\Priyanka_Tayade_4268732581_Project2\compositeTextAnalysisTool\bin\Debug\compositeTextAnalysisTool.pdb
+C:\Users\Priyanka\Desktop\Priyanka_Tayade_4268732581_Project2\compositeTextAnalysisTool\obj\Debug\compositeTextAnalysisTool.csprojResolveAssemblyReference.cache
+C:\Users\Priyanka\Desktop\Priyanka_Tayade_4268732581_Project2\compositeTextAnalysisTool\obj\Debug\compositeTextAnalysisTool.exe
+C:\Users\Priyanka\Desktop\Priyanka_Tayade_4268732581_Project2\compositeTextAnalysisTool\obj\Debug\compositeTextAnalysisTool.pdb

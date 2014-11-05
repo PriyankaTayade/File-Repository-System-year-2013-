@@ -1,0 +1,102 @@
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+////                                                           ////
+///                  COMPOSITE TEXT ANALYISIS TOOL             ///
+///                                                            ///
+///                                                            ///
+//////////////////////////////////////////////////////////////////
+
+Language:    C#   
+
+Platform:    TOSHIBA C640, Windows 7 ultimate. 
+                                          
+Application: CIS 681 -Software Modeling & Analysis,Fall 2013
+
+Instructor: Dr.Jim Fawcett, CST 2-187, Syracuse University     
+             (315) 443-3948, jfawcett@twcny.rr.com 
+
+Author:	    Priyanka Tayade, Syracuse University                  
+            (315) 416-0205, pbtayade@syr.edu  
+
+version:    1.0
+
+Purpose:    Perform text search, metadata serch and generate metadata for text file
+            with added functionality of recursive search, doc search /A and /O switches
+SUID:       42687-3258-1
+
+///////////////////////////////////////////////////////////////////
+
+Instructions
+-------------------------------------------------------------------
+Open developers command promt and run compile and run bat files
+
+compile.bat which is in main compositeTextAnalysisTool folder
+run.bat to which is in main compositeTextAnalysisTool folder
+
+---------------IMPORTANT NOTE---------------------------------------
+
+1.commands are case-insensitive
+
+2.category path i.e Category_name/subCategory_name and filename is case-sensitive
+
+3.Tool is designed to perform all operations in File Respository only
+
+4.File repository is auto generated during first installation
+
+5.Repository is divide in categories and categories are futher divided into sub categories
+
+6.User is supposed to provide path of categories only.
+
+7.User can perform text search and meta search in single query
+
+8.User can perform Doc search*** Note if the file is locked or is in use then system wont be able to read doc file and will display error msg
+
+9. search and meta data generation can not be done together as command /T has different meaning for each
+
+10.Space should be provided between command and arguments*** please follow the command pattern as shown.
+
+11.MetaFiles are associated by the name they are stored. They are stored as the same name as text file name.
+
+12. user can interchange the sequence of commands****
+
+
+Command Line Arguments
+------------------------------------------------------------------
+For Text search
+
+/C Category_name/subCategory_name  /T some_text /T some_more_text 
+
+/C Category_name/subCategory_name  /T some_text /T some_more_text /O
+
+/C Category_name/subCategory_name  /T some_text /T some_more_text /A
+
+------------------------------------------------------------------
+Meta Data Search
+
+/C Category_name/subCategory_name  /Mtag_1,tag_2,tag_3......
+
+------------------------------------------------------------------
+Meta Data Generation
+
+/G /C Category_name/subCategory_name/file_name.txt /T desciption /D dependencies /K keyword1,keyword2,.......
+
+
+------------------------------------------------------------------
+
+Miscelleneous Query
+
+/C Category_name/subCategory_name  /T some_text /T some_more_text /Mtag_1,tag_2,tag_3...... /A
+
+
+Note: text search and meta generation cannot be performed together
+
+Commands:
+
+/A and operation on text criterion
+/O or operation on text criterion
+/T text
+/M matdata
+/K keywords
+/D dependency
+/C category path/category file path
+/G generate/edit/create metadata 

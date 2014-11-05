@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  
+  <category id="1" name="RESOURCE"></category>
+  
+  <category id="2" name="PAYROLL"></category>
+  
+  <category id="3" name="CONTENT">
+    <subcategory id="1" name="POEMS"></subcategory>
+  </category>
+  
+  <category id="4" name="CLIENT"></category>
+  
+  <category id="5" name="BUSINESS">
+    <subcategory id="1" name="ACCOUNTS">
+      <subcategory id="1" name="TAX" ></subcategory>
+    </subcategory>
+  </category>
+  
+</root>
